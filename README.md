@@ -6,9 +6,9 @@ I am an SDE-2 with 3.5 years of experience, currently working at Wadhwani AI, de
 
 Swar Sadhna is a project designed to assist Indian classical music students in creating and transforming their sheet compositions into high-quality audio. The platform allows users to easily convert compositions into audio with adjustable scales and tempos. The [web application](http://www.swarsadhna.in/) provides inbuilt tanpura and tabla player, along with saved compositions, audios and audio player.
 
-  ### Coming Soon
-  #### [Android App]()
-  #### [How to Use Web Application]()
+	### Coming Soon
+  	- [Android App]()
+  	- [How to Use Web Application]()
 
 
 ## 🌐 Socials:
