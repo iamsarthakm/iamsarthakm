@@ -2,13 +2,15 @@
 
 I am an SDE-2 with 3.5 years of experience, currently working at Wadhwani AI, developing Agri AI products aimed at improving the lives of farmers. I am working on a product called NPSS, which was [launched](https://www.linkedin.com/posts/wadhwani-ai-2018_aiinagriculture-aiforsocialimpact-artificialintelligence-ugcPost-7231526953558716416-eqon?utm_source=share&utm_medium=member_desktop) on August 15, 2024, by Sh. Shivraj Singh Chouhan, Hon'ble Agriculture Minister.
 
+I have led the development of microservices for various Agri AI products, impacting over 100,000+ farmers. My work also includes automating tasks with Python and AWS SageMaker, building ETL pipelines with AWS QuickSight and BigQuery, and optimizing cloud infrastructure with GCP. I use technologies like Django, Python, React, AWS, and GCP in my projects.
+
 ## Swar Sadhna
 
 Swar Sadhna is a project designed to assist Indian classical music students in creating and transforming their sheet compositions into high-quality audio. The platform allows users to easily convert compositions into audio with adjustable scales and tempos. The [web application](http://www.swarsadhna.in/) provides inbuilt tanpura and tabla player, along with saved compositions, audios and audio player.
 
 Coming Soon
-- [Android App]()
-- [How to Use Web Application]()
+- [Android App]
+- [How to Use Web Application]
 
 
 ## 🌐 Socials:
