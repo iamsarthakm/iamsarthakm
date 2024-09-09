@@ -10,7 +10,7 @@ Swar Sadhna is a project designed to assist Indian classical music students in c
 
 Coming Soon
 - [Android App]()
-- [How to Use Web Application]()
+- [How to use swar sadhna web app]()
 
 
 ## 🌐 Socials:
