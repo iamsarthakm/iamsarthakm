@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an SDE-2 with 4+ years of experience, currently working at Wadhwani AI, developing Agri AI products aimed at improving the lives of farmers. I am working on a product called NPSS, which was [launched](https://www.linkedin.com/posts/wadhwani-ai-2018_aiinagriculture-aiforsocialimpact-artificialintelligence-ugcPost-7231526953558716416-eqon?utm_source=share&utm_medium=member_desktop) on August 15, 2024, by Sh. Shivraj Singh Chouhan, Hon'ble Agriculture Minister.
+I am an SDE-2 with 5+ years of experience, currently working at Wadhwani AI, developing Agri AI products aimed at improving the lives of farmers. I am working on a product called NPSS, which was [launched](https://www.linkedin.com/posts/wadhwani-ai-2018_aiinagriculture-aiforsocialimpact-artificialintelligence-ugcPost-7231526953558716416-eqon?utm_source=share&utm_medium=member_desktop) on August 15, 2024, by Sh. Shivraj Singh Chouhan, Hon'ble Agriculture Minister.
 
 I have led the development of microservices for various Agri AI products, impacting over 100,000+ farmers. My work also includes automating tasks with Python and AWS SageMaker, building ETL pipelines with AWS QuickSight and BigQuery, and optimizing cloud infrastructure with GCP. I use technologies like Django, Python, React, AWS, and GCP in my projects.
 
